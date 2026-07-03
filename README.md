@@ -4,27 +4,20 @@ An advanced time-series and deep learning framework designed to forecast Ethereu
 
 ---
 
-## 🚀 Key Features
+## Key Features
 * **Hybrid Architecture**: Combines an Autoregressive Integrated Moving Average (ARIMA) model with a Multi-Layer Perceptron (MLP) network to capture both linear and non-linear patterns in transaction fees.
 * **Optimized Pipeline**: Completely cleaned and structured data pipeline tracking transaction history variations.
 * **Production Ready**: Avoids heavy raw data version control issues by utilizing preprocessed data streams optimized for quick loading and efficient training.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * `final code mlp+arima, fee price prediction.ipynb`: Core Jupyter notebook containing data preprocessing, exploratory data analysis, model training, evaluation metrics, and visualizations.
 * `dataset_done_chunk1_57H_cleaned_preprocessed.csv`: Cleaned, lightweight, preprocessed time-series dataset engineered for model evaluation.
 * `.gitignore`: Built-in safety filters to exclude heavy raw data files from repository memory.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language**: Python
 * **Libraries**: PyTorch/TensorFlow, Scikit-Learn, Pandas, NumPy, Statsmodels
-
----
-
-## 📈 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Farah-Belghith2710/Gas-Price-Prediction-In-Ethereum-Blockchain-Based-On-Deep-Learning-Models.git](https://github.com/Farah-Belghith2710/Gas-Price-Prediction-In-Ethereum-Blockchain-Based-On-Deep-Learning-Models.git)
